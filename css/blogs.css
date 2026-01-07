@@ -14,3 +14,7 @@ nav li a{
 footer{
     text-align: center;
 }
+
+figure figcaption:hover{
+    background-color: brown;
+}
